@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Weekly Study Planner</title>
+<style>
+* { box-sizing: border-box; }
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+  margin: 0;
+  background: #f7f3ea;
+  color: #2b2b2b;
+}
+
+header {
+  background: #1f4d3a;
+  color: #ffffff;
+  text-align: center;
+  padding: 36px 16px 20px;
+}
+
+header h1 { margin: 0 0 8px; }
+header p { margin: 0 0 18px; }
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  margin: 0 10px;
+  padding-bottom: 3px;
+  border-bottom: 2px solid #e0b84c;
+}
+
+nav a:hover { color: #e0b84c; }
